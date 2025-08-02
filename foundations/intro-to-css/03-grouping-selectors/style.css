@@ -1,0 +1,11 @@
+.text {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.clr1 {
+    background-color: black;
+    color: white
+}
+.clr2 {
+    background-color: rgb(245, 221, 4);
+}
